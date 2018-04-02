@@ -1,0 +1,3 @@
+[submodule "Translogic.Core"]
+	path = Translogic.Core
+	url = https://github.com/lucianogean/translogicAll.git
